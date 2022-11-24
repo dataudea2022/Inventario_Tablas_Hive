@@ -1,0 +1,5 @@
+cedula|semestre|programa|version|tipoperiodo|tipoacept|zonal|promsemest|promprog|promuniv|perprueba|rango|tercioprognivel|estadosemest|credaprob|credreprob|credcancel|credmatr|anualizados|periodo_corte
+ImWoadTV|20122|3|1.000|SEMESTRE|ANTIGUO||9.990|9.990|9.990|0.000|SIN CALCUL||CANCEL|0.000|0.000|4.000|0.000||20122
+ImWoadTV|20122|3|1.000|SEMESTRE|SIN-EXAM||9.990|4.320|9.990|0.000|SIN CALCUL|TS|CANCEL|0.000|0.000|0.000|0.000||20122
+ImWoadTV|20122|3|1.000|SEMESTRE|SIN-EXAM||1.370|1.370|1.370|0.000|INSUFICIEN||TERMIN|4.000|8.000|0.000|12.000||20122
+ImWoadTV|20122|3|1.000|SEMESTRE|SIN-EXAM||4.300|4.300|4.220|0.000|NORMAL|TS|TERMIN|4.000|0.000|3.000|4.000||20122

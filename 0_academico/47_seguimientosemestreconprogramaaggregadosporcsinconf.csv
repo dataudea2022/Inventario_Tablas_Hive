@@ -1,0 +1,5 @@
+facultad_dep|programa_dep|porc_eval_prog_conf|porc_eval_prog_sin_conf|total_mat|total_ins|total_adm|estado_en_el_Progr_prim|estado_en_la_Univer_prim|nro_estudiantes_prim|semestre_aggr|codigoprog_aggr|marcar_seguimiento_aggr_prog|semestre_materalum
+3|213|98.4771573604061|100.0|237|97|105|Primiparo programa|primiparo|60|20181|213|1|20181
+3|213|98.4771573604061|100.0|237|97|105|desertor programa|inhabilitado|1|20181|213|2|20181
+3|213|98.4771573604061|100.0|237|97|105|desertor programa|desertor|43|20181|213|3|20181
+3|213|98.4771573604061|100.0|237|97|105|Primiparo programa|antiguo|1|20181|213|4|20181
